@@ -1,0 +1,23 @@
+@@ -13,15 +13,15 @@
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Gavv's Portfolio <3
+#email: mail@domain.com
+title: Gruvbox <3
+email: mail@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  A lovely theme
+baseurl: # the subpath of your site, e.g. /blog
+#url: "http://www.example.com" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username:   twitter
+github_username:    GMill728
+#linkedin_username:  linkedin\
+baseurl: "/jekyll-gruvbox-theme" # the subpath of your site, e.g. /blog
+url: "http://www.example.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:   twitter
+github_username:    github
+linkedin_username:  linkedin
+
+# Build settings
+markdown: kramdown
